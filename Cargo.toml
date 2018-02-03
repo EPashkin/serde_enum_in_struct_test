@@ -1,0 +1,6 @@
+[package]
+name = "serde_enum_in_struct_test"
+version = "0.1.0"
+authors = ["Evgenii Pashkin <eapashkin@gmail.com>"]
+
+[dependencies]
